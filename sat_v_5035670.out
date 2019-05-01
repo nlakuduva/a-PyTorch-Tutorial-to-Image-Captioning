@@ -1,0 +1,24 @@
+/tmp/slurmd/job35670/slurm_script: line 23: activate: No such file or directory
+Traceback (most recent call last):
+  File "create_input_files.py", line 8, in <module>
+    output_folder='/work/06117/lakuduva/maverick2/output')
+  File "/work/06117/lakuduva/maverick2/a-PyTorch-Tutorial-to-Image-Captioning/utils.py", line 95, in create_input_files
+    images = h.create_dataset('images', (len(impaths), 3, 256, 256), dtype='uint8')
+  File "/work/06117/lakuduva/maverick2/anaconda3/lib/python3.5/site-packages/h5py/_hl/group.py", line 106, in create_dataset
+    self[name] = dset
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper (/home/ilan/minonda/conda-bld/work/h5py/_objects.c:2579)
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper (/home/ilan/minonda/conda-bld/work/h5py/_objects.c:2538)
+  File "/work/06117/lakuduva/maverick2/anaconda3/lib/python3.5/site-packages/h5py/_hl/group.py", line 268, in __setitem__
+    h5o.link(obj.id, self.id, name, lcpl=lcpl, lapl=self._lapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper (/home/ilan/minonda/conda-bld/work/h5py/_objects.c:2579)
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper (/home/ilan/minonda/conda-bld/work/h5py/_objects.c:2538)
+  File "h5py/h5o.pyx", line 202, in h5py.h5o.link (/home/ilan/minonda/conda-bld/work/h5py/h5o.c:3718)
+RuntimeError: Unable to create link (Name already exists)
+Traceback (most recent call last):
+  File "train.py", line 331, in <module>
+    main()
+  File "train.py", line 92, in main
+    CaptionDataset(data_folder, data_name, 'TRAIN', transform=transforms.Compose([normalize])),
+  File "/work/06117/lakuduva/maverick2/a-PyTorch-Tutorial-to-Image-Captioning/datasets.py", line 31, in __init__
+    with open(os.path.join(data_folder, self.split + '_CAPTIONS_' + data_name + '.json'), 'r') as j:
+FileNotFoundError: [Errno 2] No such file or directory: '/work/06117/lakuduva/maverick2/output/TRAIN_CAPTIONS_personality_1_cap_per_img_0_min_word_freq.json'

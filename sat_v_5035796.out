@@ -1,0 +1,73 @@
+discarding /work/06117/lakuduva/maverick2/anaconda3/envs/py27/bin from PATH
+prepending /work/06117/lakuduva/maverick2/anaconda3/envs/py36/bin to PATH
+Epoch: [0][0/6227]	Batch Time 2.453 (2.453)	Data Load Time 0.679 (0.679)	Loss 11.4921 (11.4921)	Top-5 Accuracy 0.000 (0.000)
+Epoch: [0][100/6227]	Batch Time 0.262 (0.340)	Data Load Time 0.000 (0.018)	Loss 7.1950 (8.0677)	Top-5 Accuracy 24.373 (21.458)
+Epoch: [0][200/6227]	Batch Time 0.305 (0.326)	Data Load Time 0.000 (0.009)	Loss 7.0482 (7.6221)	Top-5 Accuracy 28.053 (23.245)
+Epoch: [0][300/6227]	Batch Time 0.311 (0.322)	Data Load Time 0.000 (0.006)	Loss 6.8661 (7.3983)	Top-5 Accuracy 28.354 (24.787)
+Epoch: [0][400/6227]	Batch Time 0.299 (0.319)	Data Load Time 0.000 (0.005)	Loss 7.0393 (7.2463)	Top-5 Accuracy 27.797 (26.051)
+Epoch: [0][500/6227]	Batch Time 0.301 (0.316)	Data Load Time 0.000 (0.004)	Loss 6.4680 (7.1268)	Top-5 Accuracy 35.216 (27.364)
+Epoch: [0][600/6227]	Batch Time 0.331 (0.315)	Data Load Time 0.000 (0.003)	Loss 6.5609 (7.0328)	Top-5 Accuracy 31.127 (28.394)
+Epoch: [0][700/6227]	Batch Time 0.306 (0.315)	Data Load Time 0.000 (0.003)	Loss 6.0889 (6.9533)	Top-5 Accuracy 36.875 (29.256)
+Epoch: [0][800/6227]	Batch Time 0.343 (0.316)	Data Load Time 0.000 (0.003)	Loss 6.1384 (6.8887)	Top-5 Accuracy 37.168 (29.998)
+Epoch: [0][900/6227]	Batch Time 0.314 (0.315)	Data Load Time 0.000 (0.002)	Loss 6.2886 (6.8319)	Top-5 Accuracy 34.535 (30.653)
+Epoch: [0][1000/6227]	Batch Time 0.266 (0.315)	Data Load Time 0.000 (0.002)	Loss 6.0848 (6.7833)	Top-5 Accuracy 39.249 (31.169)
+Epoch: [0][1100/6227]	Batch Time 0.293 (0.315)	Data Load Time 0.000 (0.002)	Loss 6.2456 (6.7362)	Top-5 Accuracy 38.889 (31.689)
+Epoch: [0][1200/6227]	Batch Time 0.326 (0.315)	Data Load Time 0.000 (0.002)	Loss 6.0272 (6.6951)	Top-5 Accuracy 36.932 (32.148)
+Epoch: [0][1300/6227]	Batch Time 0.283 (0.315)	Data Load Time 0.000 (0.002)	Loss 6.0603 (6.6560)	Top-5 Accuracy 38.889 (32.580)
+Epoch: [0][1400/6227]	Batch Time 0.296 (0.315)	Data Load Time 0.000 (0.002)	Loss 6.1850 (6.6225)	Top-5 Accuracy 39.748 (32.959)
+Epoch: [0][1500/6227]	Batch Time 0.371 (0.314)	Data Load Time 0.000 (0.001)	Loss 6.0253 (6.5931)	Top-5 Accuracy 38.889 (33.301)
+Epoch: [0][1600/6227]	Batch Time 0.258 (0.314)	Data Load Time 0.000 (0.001)	Loss 6.0703 (6.5654)	Top-5 Accuracy 40.972 (33.621)
+Epoch: [0][1700/6227]	Batch Time 0.319 (0.314)	Data Load Time 0.000 (0.001)	Loss 6.2968 (6.5398)	Top-5 Accuracy 35.278 (33.897)
+Epoch: [0][1800/6227]	Batch Time 0.260 (0.314)	Data Load Time 0.000 (0.001)	Loss 6.1471 (6.5164)	Top-5 Accuracy 36.678 (34.173)
+Epoch: [0][1900/6227]	Batch Time 0.281 (0.314)	Data Load Time 0.000 (0.001)	Loss 5.8314 (6.4933)	Top-5 Accuracy 44.937 (34.433)
+Epoch: [0][2000/6227]	Batch Time 0.345 (0.314)	Data Load Time 0.000 (0.001)	Loss 6.3429 (6.4739)	Top-5 Accuracy 38.298 (34.675)
+Epoch: [0][2100/6227]	Batch Time 0.365 (0.314)	Data Load Time 0.000 (0.001)	Loss 6.0391 (6.4540)	Top-5 Accuracy 37.353 (34.891)
+Epoch: [0][2200/6227]	Batch Time 0.303 (0.314)	Data Load Time 0.000 (0.001)	Loss 6.1086 (6.4353)	Top-5 Accuracy 40.367 (35.108)
+Epoch: [0][2300/6227]	Batch Time 0.330 (0.315)	Data Load Time 0.000 (0.001)	Loss 5.9476 (6.4163)	Top-5 Accuracy 41.967 (35.323)
+Epoch: [0][2400/6227]	Batch Time 0.284 (0.315)	Data Load Time 0.000 (0.001)	Loss 5.8251 (6.4004)	Top-5 Accuracy 40.256 (35.502)
+Epoch: [0][2500/6227]	Batch Time 0.325 (0.315)	Data Load Time 0.000 (0.001)	Loss 5.9436 (6.3842)	Top-5 Accuracy 40.616 (35.692)
+Epoch: [0][2600/6227]	Batch Time 0.332 (0.315)	Data Load Time 0.000 (0.001)	Loss 5.9882 (6.3692)	Top-5 Accuracy 39.571 (35.864)
+Epoch: [0][2700/6227]	Batch Time 0.302 (0.315)	Data Load Time 0.000 (0.001)	Loss 5.7056 (6.3554)	Top-5 Accuracy 46.690 (36.029)
+Epoch: [0][2800/6227]	Batch Time 0.357 (0.315)	Data Load Time 0.000 (0.001)	Loss 5.9064 (6.3413)	Top-5 Accuracy 40.146 (36.198)
+Epoch: [0][2900/6227]	Batch Time 0.260 (0.315)	Data Load Time 0.000 (0.001)	Loss 6.1616 (6.3273)	Top-5 Accuracy 41.156 (36.347)
+Epoch: [0][3000/6227]	Batch Time 0.289 (0.315)	Data Load Time 0.000 (0.001)	Loss 6.2305 (6.3153)	Top-5 Accuracy 38.944 (36.491)
+Epoch: [0][3100/6227]	Batch Time 0.296 (0.315)	Data Load Time 0.000 (0.001)	Loss 6.0187 (6.3022)	Top-5 Accuracy 39.009 (36.653)
+Epoch: [0][3200/6227]	Batch Time 0.377 (0.315)	Data Load Time 0.000 (0.001)	Loss 6.2124 (6.2909)	Top-5 Accuracy 39.266 (36.784)
+Epoch: [0][3300/6227]	Batch Time 0.270 (0.315)	Data Load Time 0.000 (0.001)	Loss 5.7652 (6.2792)	Top-5 Accuracy 40.656 (36.912)
+Epoch: [0][3400/6227]	Batch Time 0.457 (0.315)	Data Load Time 0.000 (0.001)	Loss 6.2271 (6.2683)	Top-5 Accuracy 37.748 (37.046)
+Epoch: [0][3500/6227]	Batch Time 0.272 (0.315)	Data Load Time 0.000 (0.001)	Loss 5.7137 (6.2572)	Top-5 Accuracy 46.619 (37.171)
+Epoch: [0][3600/6227]	Batch Time 0.315 (0.314)	Data Load Time 0.000 (0.001)	Loss 5.9608 (6.2469)	Top-5 Accuracy 38.636 (37.295)
+Epoch: [0][3700/6227]	Batch Time 0.304 (0.314)	Data Load Time 0.000 (0.001)	Loss 5.6772 (6.2374)	Top-5 Accuracy 44.602 (37.401)
+Epoch: [0][3800/6227]	Batch Time 0.329 (0.314)	Data Load Time 0.000 (0.001)	Loss 6.0548 (6.2269)	Top-5 Accuracy 37.901 (37.518)
+Epoch: [0][3900/6227]	Batch Time 0.273 (0.314)	Data Load Time 0.000 (0.001)	Loss 5.9051 (6.2175)	Top-5 Accuracy 41.824 (37.622)
+Epoch: [0][4000/6227]	Batch Time 0.320 (0.314)	Data Load Time 0.000 (0.001)	Loss 6.2674 (6.2089)	Top-5 Accuracy 38.820 (37.714)
+Epoch: [0][4100/6227]	Batch Time 0.284 (0.314)	Data Load Time 0.000 (0.001)	Loss 5.7935 (6.2000)	Top-5 Accuracy 41.118 (37.819)
+Epoch: [0][4200/6227]	Batch Time 0.300 (0.314)	Data Load Time 0.000 (0.001)	Loss 5.8718 (6.1917)	Top-5 Accuracy 42.517 (37.912)
+Epoch: [0][4300/6227]	Batch Time 0.296 (0.314)	Data Load Time 0.000 (0.001)	Loss 5.6962 (6.1838)	Top-5 Accuracy 43.605 (38.015)
+Epoch: [0][4400/6227]	Batch Time 0.253 (0.314)	Data Load Time 0.000 (0.001)	Loss 5.7479 (6.1749)	Top-5 Accuracy 43.750 (38.123)
+Epoch: [0][4500/6227]	Batch Time 0.401 (0.314)	Data Load Time 0.000 (0.001)	Loss 5.6067 (6.1673)	Top-5 Accuracy 44.391 (38.217)
+Epoch: [0][4600/6227]	Batch Time 0.284 (0.314)	Data Load Time 0.000 (0.001)	Loss 5.9607 (6.1601)	Top-5 Accuracy 46.154 (38.307)
+Epoch: [0][4700/6227]	Batch Time 0.344 (0.314)	Data Load Time 0.000 (0.001)	Loss 6.1982 (6.1529)	Top-5 Accuracy 41.139 (38.389)
+Epoch: [0][4800/6227]	Batch Time 0.306 (0.314)	Data Load Time 0.000 (0.001)	Loss 5.6335 (6.1451)	Top-5 Accuracy 46.562 (38.484)
+Traceback (most recent call last):
+  File "train.py", line 332, in <module>
+    main()
+  File "train.py", line 117, in main
+    epoch=epoch)
+  File "train.py", line 163, in train
+    for i, (imgs, caps, caplens) in enumerate(train_loader):
+  File "/work/06117/lakuduva/maverick2/anaconda3/lib/python3.5/site-packages/torch/utils/data/dataloader.py", line 637, in __next__
+    return self._process_next_batch(batch)
+  File "/work/06117/lakuduva/maverick2/anaconda3/lib/python3.5/site-packages/torch/utils/data/dataloader.py", line 658, in _process_next_batch
+    raise batch.exc_type(batch.exc_msg)
+RuntimeError: Traceback (most recent call last):
+  File "/work/06117/lakuduva/maverick2/anaconda3/lib/python3.5/site-packages/torch/utils/data/dataloader.py", line 138, in _worker_loop
+    samples = collate_fn([dataset[i] for i in batch_indices])
+  File "/work/06117/lakuduva/maverick2/anaconda3/lib/python3.5/site-packages/torch/utils/data/dataloader.py", line 232, in default_collate
+    return [default_collate(samples) for samples in transposed]
+  File "/work/06117/lakuduva/maverick2/anaconda3/lib/python3.5/site-packages/torch/utils/data/dataloader.py", line 232, in <listcomp>
+    return [default_collate(samples) for samples in transposed]
+  File "/work/06117/lakuduva/maverick2/anaconda3/lib/python3.5/site-packages/torch/utils/data/dataloader.py", line 209, in default_collate
+    return torch.stack(batch, 0, out=out)
+RuntimeError: invalid argument 0: Sizes of tensors must match except in dimension 0. Got 102 and 129 in dimension 1 at /pytorch/aten/src/TH/generic/THTensorMoreMath.cpp:1307
+
